@@ -1,0 +1,15 @@
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/bin/Debug/net6.0/FirstTask
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/bin/Debug/net6.0/FirstTask.deps.json
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/bin/Debug/net6.0/FirstTask.runtimeconfig.json
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/bin/Debug/net6.0/FirstTask.dll
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/bin/Debug/net6.0/FirstTask.pdb
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/obj/Debug/net6.0/FirstTask.csproj.AssemblyReference.cache
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/obj/Debug/net6.0/FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/obj/Debug/net6.0/FirstTask.AssemblyInfoInputs.cache
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/obj/Debug/net6.0/FirstTask.AssemblyInfo.cs
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/obj/Debug/net6.0/FirstTask.csproj.CoreCompileInputs.cache
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/obj/Debug/net6.0/FirstTask.dll
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/obj/Debug/net6.0/refint/FirstTask.dll
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/obj/Debug/net6.0/FirstTask.pdb
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/obj/Debug/net6.0/FirstTask.genruntimeconfig.cache
+/Users/immortal1307/Desktop/HomeWork9/FirstTask/obj/Debug/net6.0/ref/FirstTask.dll
